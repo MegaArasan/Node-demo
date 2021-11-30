@@ -2,18 +2,13 @@
 import express from "express";
 import dotenv from "dotenv";
 import { MongoClient } from "mongodb";
-import {
-  FilteringMovies,
-  CreateMovie,
-  FindMovie,
-  DeleteMovie,
-  UpdateMovie,
-} from "./CreateMovie.js";
+
 import { moviesRouter } from "./routes/Movies.js";
 const app = express();
-
-const PORT = 9000;
 dotenv.config();
+
+// console.log(process.env);
+const PORT = process.env.PORT;
 
 // const MONGO_URL = "mongodb://localhost";  // this is for localhost
 
