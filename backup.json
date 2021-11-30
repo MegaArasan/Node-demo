@@ -1,6 +1,6 @@
 [
     {
-        "_id": "619b7783dedd828bf7dc0c44",
+        
         "id": "101",
         "name": "No Country for Old Men",
         "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg",
@@ -10,7 +10,7 @@
         "language": "english"
     },
     {
-        "_id": "619b7783dedd828bf7dc0c45",
+        
         "id": "102",
         "name": "Jai Bhim",
         "poster": "https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg",
@@ -20,7 +20,7 @@
         "language": "tamil"
     },
     {
-        "_id": "619b7783dedd828bf7dc0c46",
+        
         "id": "103",
         "name": "The Avengers",
         "rating": 8,
@@ -30,7 +30,7 @@
         "language": "english"
     },
     {
-        "_id": "619b7783dedd828bf7dc0c47",
+        
         "id": "104",
         "name": "Interstellar",
         "poster": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._SL1500_.jpg",
@@ -40,7 +40,7 @@
         "language": "english"
     },
     {
-        "_id": "619b7783dedd828bf7dc0c48",
+        
         "id": "105",
         "name": "Baahubali",
         "poster": "https://flxt.tmsimg.com/assets/p11546593_p_v10_af.jpg",
@@ -50,7 +50,7 @@
         "language": "telugu"
     },
     {
-        "_id": "619b7783dedd828bf7dc0c49",
+        
         "id": "106",
         "name": "Ratatouille",
         "poster": "https://resizing.flixster.com/gL_JpWcD7sNHNYSwI1ff069Yyug=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzc4ZmJhZjZiLTEzNWMtNDIwOC1hYzU1LTgwZjE3ZjQzNTdiNy5qcGc=",
@@ -60,7 +60,7 @@
         "language": "english"
     },
     {
-        "_id": "61a4a882521ad700f3775555",
+        
         "name": "Avatar",
         "id": "107",
         "poster": "https://miro.medium.com/max/453/1*zWGSyuGKWgKYu-ZAf5bxiA.jpeg",
@@ -70,7 +70,7 @@
         "language": "english"
     },
     {
-        "_id": "61a4a882521ad700f3775556",
+        
         "name": "Avengers: Endgame",
         "id": "108",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
@@ -80,7 +80,7 @@
         "language": "english"
     },
     {
-        "_id": "61a4a882521ad700f3775557",
+       
         "name": "Titanic ",
         "id": "109",
         "poster": "https://m.media-amazon.com/images/I/81nGkful2jL._AC_SY679_.jpg",
@@ -90,7 +90,7 @@
         "language": "english"
     },
     {
-        "_id": "61a4a882521ad700f3775558",
+        
         "name": "Star Wars: The Force Awakens",
         "id": "110",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg",
@@ -100,7 +100,7 @@
         "language": "english"
     },
     {
-        "_id": "61a4a882521ad700f3775559",
+        
         "name": "Avengers: Infinity War",
         "id": "111",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
@@ -110,7 +110,7 @@
         "language": "tamil"
     },
     {
-        "_id": "61a4a882521ad700f377555a",
+        
         "name": "Jurassic World",
         "id": "112",
         "poster": "https://m.media-amazon.com/images/I/81BcmbLuzcL._SL1500_.jpg",
@@ -120,7 +120,7 @@
         "language": "telugu"
     },
     {
-        "_id": "61a4a882521ad700f377555b",
+        
         "name": " The Lion King",
         "id": "113",
         "poster": "https://images.moviesanywhere.com/c07276e9473360730fdbc94baebc4236/4692c964-61ba-486d-9c77-939dbfba2f07.jpg",
@@ -130,7 +130,7 @@
         "language": "english"
     },
     {
-        "_id": "61a4a882521ad700f377555c",
+        
         "name": "Thor Ragnarok",
         "id": "114",
         "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg",
@@ -140,7 +140,7 @@
         "language": "telugu"
     },
     {
-        "_id": "61a4a882521ad700f377555d",
+        
         "trailer": "https://www.youtube.com/embed/4a1OhIEN1ik",
         "name": "MEGAM",
         "summary": "Unluckiest person ever and most depressed person",
@@ -150,7 +150,7 @@
         "language": "tamil"
     },
     {
-        "_id": "61a4a882521ad700f377555e",
+        
         "trailer": "https://www.youtube.com/embed/Gc6dEDnL8JA",
         "name": "Jai Bhim",
         "summary": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
