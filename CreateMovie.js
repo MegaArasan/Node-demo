@@ -1,5 +1,6 @@
 import { client } from "./index.js";
 
+
 async function CreateMovie(data) {
   return await client.db("demo").collection("movies").insertMany(data);
 }
