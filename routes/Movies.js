@@ -1,4 +1,4 @@
-import express from "express";
+import express, { request, response } from "express";
 const router = express.Router();
 import {
   FilteringMovies,
@@ -6,6 +6,7 @@ import {
   FindMovie,
   DeleteMovie,
   UpdateMovie,
+  Post1movie,
 } from "../CreateMovie.js";
 
 router
@@ -25,6 +26,11 @@ router
     const data = request.body;
     const result = await CreateMovie(data);
     response.send(result);
+  })
+  .post(async (request, response) => {
+    const data = request.body;
+    const result1 = await Post1movie(data);
+    response.send(result1);
   });
 
 // find one data
