@@ -20,7 +20,7 @@ async function DeleteMovie(id) {
     .collection("movies")
     .deleteOne({ _id: ObjectId(id) });
 }
-async function UpdateMovie(_id, data) {
+async function UpdateMovie(id, data) {
   return await client
     .db("demo")
     .collection("movies")
