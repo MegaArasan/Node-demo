@@ -8,10 +8,11 @@ import {
   UpdateMovie,
   Post1movie,
 } from "../CreateMovie.js";
+import { auth } from "../middleware/auth.js";
 
 router
   .route("/")
-  .get(async (request, response) => {
+  .get(auth, async (request, response) => {
     console.log(request.query);
     const filter = request.query;
     console.log(filter);
@@ -36,7 +37,7 @@ router
 // find one data
 router
   .route("/:id")
-  .get(async (request, response) => {
+  .get(auth,async (request, response) => {
     console.log(request.params);
     const { id } = request.params;
     // const movie = movies.find((mv) => mv.id === id);

@@ -10,7 +10,14 @@ async function Post1movie(data) {
 }
 
 async function CreateUser(data) {
-  return await client.db("demo").collection("movies").insertOne(data);
+  return await client.db("demo").collection("users").insertOne(data);
+}
+
+async function GetuserByName(username) {
+  return await client
+    .db("demo")
+    .collection("users")
+    .findOne({ username: username });
 }
 
 async function FilteringMovies(filter) {
@@ -53,4 +60,5 @@ export {
   CreateUser,
   genpassword,
   Post1movie,
+  GetuserByName,
 };
